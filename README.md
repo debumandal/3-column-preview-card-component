@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://github.com/debumandal/3-column-preview-card-component)
+- Live Site URL: [live site URL](https://debumandal.github.io/3-column-preview-card-component/)
 
 ## My process
 
